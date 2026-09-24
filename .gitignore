@@ -1,0 +1,5 @@
+node_modules/
+data.json
+vault-data.json
+.DS_Store
+outputs/

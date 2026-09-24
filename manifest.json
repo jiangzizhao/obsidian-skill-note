@@ -1,0 +1,10 @@
+{
+  "id": "skill-manager",
+  "name": "Skill 便笺",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "用便利贴整理、检索和查看电脑里的真实 Skills。",
+  "author": "Tina",
+  "authorUrl": "https://github.com/jiangzizhao",
+  "isDesktopOnly": true
+}
