@@ -1,4 +1,4 @@
-# Skill 便笺
+# Skill Notes（Skill 便笺）
 
 一个在 Obsidian 中集中管理本地 Skill 的插件。桌面宽屏固定一行 4 张卡片，支持搜索、分类、收藏、启停、查看详情和使用次数统计。
 
@@ -31,7 +31,7 @@ npm run build
 <你的 Vault>/.obsidian/plugins/skill-manager/
 ```
 
-然后在 Obsidian → 设置 → 第三方插件中启用 **Skill 便笺**。
+然后在 Obsidian → 设置 → 第三方插件中启用 **Skill Notes**。“Skill 便笺”是本插件的中文名称。
 
 ## 隐私
 
